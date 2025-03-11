@@ -1,0 +1,4 @@
+ >>>>>>>> cudaLaunchKernel called with func, gridDim, blockDim, args, sharedMem, stream
+>>>>>>>> cudaLaunchKernel returned with func, gridDim, blockDim, args, sharedMem, stream
+>>>>>>>> cudaLaunchKernel called with func, gridDim, blockDim, args, sharedMem, stream
+>>>>>>>> cudaLaunchKernel returned with func, gridDim, blockDim, args, sharedMem, stream
